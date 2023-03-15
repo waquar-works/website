@@ -748,9 +748,10 @@ section {
 }
 
 .featured-services .description {
-  font-size: 15px;
-  line-height: 28px;
-  margin-bottom: 0;
+  font-size: 13px;
+    line-height: 22px;
+    margin-bottom: 0;
+    text-align: justify;
 }
 
 .featured-services .icon-box:hover .title a,
@@ -801,7 +802,7 @@ section {
 }
 
 .about .content ul p {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .about .content p:last-child {
@@ -961,7 +962,7 @@ section {
 
 .services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 13px;
   margin-bottom: 0;
 }
 
@@ -1468,8 +1469,8 @@ section {
   display: block;
   position: relative;
   font-family: #106eea;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 15px;
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
@@ -1827,3 +1828,6 @@ section {
     padding: 2px 0;
   }
 }
+/*.col-lg-6.pt-4.pt-lg-0.content.d-flex.flex-column.justify-content-center.aos-init.aos-animate {
+    font-size: 14px;
+}*/
